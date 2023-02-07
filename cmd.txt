@@ -1,0 +1,6 @@
+https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-deploy-a-smart-contract-with-hardhat
+npx hardhat
+npx hardhat complie
+npx hardhat test
+npx hardhart run script/deploy.ts --network rinkeby
+npx hardhart flatten contract/ERC20.sol
